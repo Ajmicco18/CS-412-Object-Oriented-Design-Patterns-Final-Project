@@ -1,0 +1,11 @@
+C:\Users\Anthony\Documents\Fall 2024\Object Oriented Design Patterns\SemesterProject\BankAccountCommon\bin\Debug\net6.0\BankAccountCommon.deps.json
+C:\Users\Anthony\Documents\Fall 2024\Object Oriented Design Patterns\SemesterProject\BankAccountCommon\bin\Debug\net6.0\BankAccountCommon.dll
+C:\Users\Anthony\Documents\Fall 2024\Object Oriented Design Patterns\SemesterProject\BankAccountCommon\bin\Debug\net6.0\BankAccountCommon.pdb
+C:\Users\Anthony\Documents\Fall 2024\Object Oriented Design Patterns\SemesterProject\BankAccountCommon\obj\Debug\net6.0\BankAccountCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\Documents\Fall 2024\Object Oriented Design Patterns\SemesterProject\BankAccountCommon\obj\Debug\net6.0\BankAccountCommon.AssemblyInfoInputs.cache
+C:\Users\Anthony\Documents\Fall 2024\Object Oriented Design Patterns\SemesterProject\BankAccountCommon\obj\Debug\net6.0\BankAccountCommon.AssemblyInfo.cs
+C:\Users\Anthony\Documents\Fall 2024\Object Oriented Design Patterns\SemesterProject\BankAccountCommon\obj\Debug\net6.0\BankAccountCommon.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Documents\Fall 2024\Object Oriented Design Patterns\SemesterProject\BankAccountCommon\obj\Debug\net6.0\BankAccountCommon.dll
+C:\Users\Anthony\Documents\Fall 2024\Object Oriented Design Patterns\SemesterProject\BankAccountCommon\obj\Debug\net6.0\refint\BankAccountCommon.dll
+C:\Users\Anthony\Documents\Fall 2024\Object Oriented Design Patterns\SemesterProject\BankAccountCommon\obj\Debug\net6.0\BankAccountCommon.pdb
+C:\Users\Anthony\Documents\Fall 2024\Object Oriented Design Patterns\SemesterProject\BankAccountCommon\obj\Debug\net6.0\ref\BankAccountCommon.dll
