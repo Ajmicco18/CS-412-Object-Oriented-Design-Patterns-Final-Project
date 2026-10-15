@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>BankAccounts.Logic</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BankAccountsData\BankAccountsData.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Visitors\" />
+  </ItemGroup>
+
+</Project>

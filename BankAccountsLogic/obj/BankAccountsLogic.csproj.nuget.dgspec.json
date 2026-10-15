@@ -1,0 +1,329 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\BankAccountsLogic\\BankAccountsLogic.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\BankAccountCommon\\BankAccountCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\BankAccountCommon\\BankAccountCommon.csproj",
+        "projectName": "BankAccountCommon",
+        "projectPath": "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\BankAccountCommon\\BankAccountCommon.csproj",
+        "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\BankAccountCommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anthony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\BankAccountsData\\BankAccountsData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\BankAccountsData\\BankAccountsData.csproj",
+        "projectName": "BankAccountsData",
+        "projectPath": "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\BankAccountsData\\BankAccountsData.csproj",
+        "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\BankAccountsData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anthony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\BankAccountCommon\\BankAccountCommon.csproj": {
+                "projectPath": "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\BankAccountCommon\\BankAccountCommon.csproj"
+              },
+              "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\Lib\\Lib.csproj": {
+                "projectPath": "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\Lib\\Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\BankAccountsLogic\\BankAccountsLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\BankAccountsLogic\\BankAccountsLogic.csproj",
+        "projectName": "BankAccountsLogic",
+        "projectPath": "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\BankAccountsLogic\\BankAccountsLogic.csproj",
+        "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\BankAccountsLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anthony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\BankAccountsData\\BankAccountsData.csproj": {
+                "projectPath": "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\BankAccountsData\\BankAccountsData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\Lib\\Lib.csproj": {
+      "version": "4.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\Lib\\Lib.csproj",
+        "projectName": "Lib",
+        "projectPath": "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\Lib\\Lib.csproj",
+        "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anthony\\Documents\\Fall 2024\\Object Oriented Design Patterns\\SemesterProject\\Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anthony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.119, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
